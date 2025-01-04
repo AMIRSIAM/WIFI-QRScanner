@@ -1,0 +1,5 @@
+# Build dirs
+build
+
+# User config files
+.vscode
