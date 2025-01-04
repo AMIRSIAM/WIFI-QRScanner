@@ -14,8 +14,3 @@ WIFI-QR-Scanner is a desktop application that allows users to connect to Wi-Fi n
 - **QML**: Language for creating responsive user interfaces.
 - **C++**: Programming language for backend logic.
 - **ZXing-cpp**: Library for QR code scanning functionality.
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/WIFI-QR-Scanner.git
